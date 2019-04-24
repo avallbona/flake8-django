@@ -1,6 +1,18 @@
 Change Log
 ==========
 
+0.0.5 (2019-04-24)
+------------------
+
+**Improvements**
+
+- Added `DJ09` - Model must define `class Meta`
+- Added `DJ10` - Class Meta from Model has to define `verbose_name`
+- Added `DJ11` - Class Meta from Model has to define `verbose_name_plural`
+- Fixed some flake8 issues in package and tests and added pypi badge
+- Refactored some tests
+- Bumped version number
+
 0.0.4 (2019-01-18)
 ------------------
 

@@ -13,4 +13,4 @@ class User4(ModelForm):
 
     class Meta:
         model = User2
-        fields = b'__all__'
+        fields = '__all__'
